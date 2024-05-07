@@ -1,0 +1,14 @@
+c:\VSCode\Practica11new\bin\Debug\net6.0\Practica11new.exe
+c:\VSCode\Practica11new\bin\Debug\net6.0\Practica11new.deps.json
+c:\VSCode\Practica11new\bin\Debug\net6.0\Practica11new.runtimeconfig.json
+c:\VSCode\Practica11new\bin\Debug\net6.0\Practica11new.dll
+c:\VSCode\Practica11new\bin\Debug\net6.0\Practica11new.pdb
+c:\VSCode\Practica11new\obj\Debug\net6.0\Practica11new.GeneratedMSBuildEditorConfig.editorconfig
+c:\VSCode\Practica11new\obj\Debug\net6.0\Practica11new.AssemblyInfoInputs.cache
+c:\VSCode\Practica11new\obj\Debug\net6.0\Practica11new.AssemblyInfo.cs
+c:\VSCode\Practica11new\obj\Debug\net6.0\Practica11new.csproj.CoreCompileInputs.cache
+c:\VSCode\Practica11new\obj\Debug\net6.0\Practica11new.dll
+c:\VSCode\Practica11new\obj\Debug\net6.0\refint\Practica11new.dll
+c:\VSCode\Practica11new\obj\Debug\net6.0\Practica11new.pdb
+c:\VSCode\Practica11new\obj\Debug\net6.0\Practica11new.genruntimeconfig.cache
+c:\VSCode\Practica11new\obj\Debug\net6.0\ref\Practica11new.dll

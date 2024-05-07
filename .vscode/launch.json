@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Practica11new",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Practica11new.csproj",
+            "launchConfigurationId": "TargetFramework=;Practica11new"
+        }
+    ]
+}
